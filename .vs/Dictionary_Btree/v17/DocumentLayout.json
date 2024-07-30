@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\djzve\\source\\repos\\Dictionary_Btree\\",
+  "WorkspaceRootPath": "D:\\GitRepozitories\\Dictionary_Btree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF0E1FA1-DF0A-4274-9AA3-C56C5F325D54}|Dictionary_Btree\\Dictionary_Btree.vcxproj|C:\\Users\\djzve\\source\\repos\\Dictionary_Btree\\Dictionary_Btree\\Dictionary_Btree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FF0E1FA1-DF0A-4274-9AA3-C56C5F325D54}|Dictionary_Btree\\Dictionary_Btree.vcxproj|D:\\GitRepozitories\\Dictionary_Btree\\Dictionary_Btree\\Dictionary_Btree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF0E1FA1-DF0A-4274-9AA3-C56C5F325D54}|Dictionary_Btree\\Dictionary_Btree.vcxproj|solutionrelative:Dictionary_Btree\\Dictionary_Btree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dictionary_Btree.cpp",
-              "DocumentMoniker": "C:\\Users\\djzve\\source\\repos\\Dictionary_Btree\\Dictionary_Btree\\Dictionary_Btree.cpp",
+              "DocumentMoniker": "D:\\GitRepozitories\\Dictionary_Btree\\Dictionary_Btree\\Dictionary_Btree.cpp",
               "RelativeDocumentMoniker": "Dictionary_Btree\\Dictionary_Btree.cpp",
-              "ToolTip": "C:\\Users\\djzve\\source\\repos\\Dictionary_Btree\\Dictionary_Btree\\Dictionary_Btree.cpp",
+              "ToolTip": "D:\\GitRepozitories\\Dictionary_Btree\\Dictionary_Btree\\Dictionary_Btree.cpp",
               "RelativeToolTip": "Dictionary_Btree\\Dictionary_Btree.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-30T10:09:56.864Z",
               "EditorCaption": ""
